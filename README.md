@@ -1,7 +1,7 @@
 # HyperArt-Surya
-![Banner](https://github.com/zGonzah/HyperOS-Ports/assets/83481962/edbc44de-20d1-4e95-ac43-163b810ea618)
+![Banner](https://github.com/user-attachments/assets/8c32bc1f-f0f6-4ea9-9544-a041d87515b9)
 
-HyperOS Ports For POCO X3/NFC by zGonzah
+HyperArt for POCO X3/NFC by zGonzah
 
 ## Download
 - [A14 POCO X3/NFC HyperArt (UNRCNXM)](https://drive.google.com/file/d/1vKXcbZDIdiDN3al18g9cU3I9Bn3OzJtL/view?usp=sharing)
